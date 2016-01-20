@@ -1,2 +1,2 @@
 # photos
-ph[
+To store photos
